@@ -37,7 +37,7 @@ const NavBar = () => {
                     </li>
                 </ul>
             </div>
-
+                {/* <span className='mode w-50'><i class="bi bi-moon-fill"></i></span> */}
             </div>
         </nav>
 

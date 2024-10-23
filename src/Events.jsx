@@ -6,7 +6,7 @@ const EventData = [
       "title1": "Conference",
       "title2": "WebDev Conference",
       "date": "05 July Friday",
-      "venue" : "Global Arena, San Francisco 09:00 - 18:00"
+      "venue" : `Global Arena, tral Hy San Francisco 09:00 - 18:00`
     },
     {
      "title1": "Panel Discussion",
@@ -39,6 +39,8 @@ const Events = () =>{
                     }
                 </div>
             </div>
+
+
         </section>
     )
 

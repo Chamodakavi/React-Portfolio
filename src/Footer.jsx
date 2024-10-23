@@ -17,7 +17,9 @@ const Footer = () => {
                         <a href="#experience" className='text-light mx-3 my-2 footer-links'><span className=''>Experience </span>  </a>
                         <a href="#events" className='text-light mx-3 my-2 footer-links'><span className=''>Events     </span>  </a>
                     </div>
-
+                    <div>
+                        
+                    </div>
                </div>
             </footer>
         </>

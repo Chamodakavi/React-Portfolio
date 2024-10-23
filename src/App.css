@@ -40,7 +40,15 @@ nav li :hover{
 .footer-links{
     text-decoration: none;
 }
+.mode{
+    position: fixed;
+    right: 40px;
 
+}
+
+.mode:hover{
+    cursor: pointer;
+}
 /* less than or equal to 990 pixels */
 @media(max-width:991px){
     .c-project-item-description{
