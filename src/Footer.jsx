@@ -5,7 +5,7 @@ const Footer = () => {
     return(
 
         <>
-            <footer className='footer bg-primary'>
+            <footer className='footer bg-primary mt-5'>
                <div className='container py-5 text-center'>
                     <div>
                         <h1>Alex Williams</h1>
@@ -23,7 +23,6 @@ const Footer = () => {
         </>
 
     );
-
 }
 
 export default Footer;
