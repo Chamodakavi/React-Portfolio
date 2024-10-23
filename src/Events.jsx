@@ -31,7 +31,7 @@ const Events = () =>{
                 <p className="lead">
                 I regularly take part in talks, forums, conferences and panel discussions to share experience, communicate with colleagues and find new opportunities. So you can always say hi!
                 </p>
-                <div className="row">
+                <div className="row g-4">
                     {
                         EventData.map((parameter)=>(
                             <EventCard event={parameter}/>
