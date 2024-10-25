@@ -40,13 +40,26 @@ nav li :hover{
 .footer-links{
     text-decoration: none;
 }
-.mode{
-    position: fixed;
-    right: 40px;
 
+form{
+    position: fixed;
+    top: 10%;
+    right: 14%;
+    background-color: rgba(142, 126, 126, 0.665);
+    padding: 30px;
+    border-radius: 20px;
+    line-height: 2rem;
+    font-size: 1.05rem;
+    width: 70%;
+    height: 500px;
+    backdrop-filter: blur(100px);
+    z-index: 9999;
 }
 
-.mode:hover{
+.close-btn{
+    position: relative;
+    left: 97%;
+    top: -2%;
     cursor: pointer;
 }
 /* less than or equal to 990 pixels */

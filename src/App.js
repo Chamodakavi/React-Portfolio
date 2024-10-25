@@ -10,8 +10,9 @@ import Welcome from './welcome.jsx';
 import Footer from './Footer.jsx';
 import ProjectsSection from './ProjectsSection.jsx';
 import CVDownload from './CVDownload.jsx';
-import ContactMe from './ContactMe.jsx';
+import ContactMe from './ContactMe.js';
 import Events from './Events.jsx';
+import Form from './Form.js';
 
 const App = () => {
 
